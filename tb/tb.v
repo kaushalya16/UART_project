@@ -1,7 +1,7 @@
 module uart_tb;
 
     parameter DATABITS = 8;
-    parameter BAUD_DIV = 2604;
+    parameter BAUD_DIV = 5208;
 
     reg clk = 0;
     reg reset = 1;
